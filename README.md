@@ -14,7 +14,7 @@ The Web App also allowed the admins to upload new products, ban users, and send 
 - Discussed the web application and its creation using a PowerPoint presentation. 
 
 
-Here some screenshots:
+Here are some screenshots:
 <div>
   <img src="https://user-images.githubusercontent.com/74657021/188680631-f1bc549f-a618-4110-8fff-317f15e7af73.png" width="60%" height="60%"/>
   <img src="https://user-images.githubusercontent.com/74657021/188680666-ac1d099e-2ad7-40e3-a190-f390c6fe9434.png" width="60%" height="60%"/>

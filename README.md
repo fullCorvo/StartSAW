@@ -1,4 +1,4 @@
-# StartSAW-Portfolio
+# StartSAW
 The project I made for the Web Applications Development class, here as part of my portfolio.
 
 This is a dynamic website, the assignment was to make a web application for a fake start-up. My group's idea was a start-up that develops music production softwares named "Harsh Noises".
